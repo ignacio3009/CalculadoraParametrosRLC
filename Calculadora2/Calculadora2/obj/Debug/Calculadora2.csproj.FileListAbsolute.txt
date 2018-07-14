@@ -1,0 +1,13 @@
+C:\Users\ignac\source\repos\Calculadora2\Calculadora2\bin\Debug\Calculadora2.exe.config
+C:\Users\ignac\source\repos\Calculadora2\Calculadora2\bin\Debug\Calculadora2.exe
+C:\Users\ignac\source\repos\Calculadora2\Calculadora2\bin\Debug\Calculadora2.pdb
+C:\Users\ignac\source\repos\Calculadora2\Calculadora2\obj\Debug\Calculadora2.csprojAssemblyReference.cache
+C:\Users\ignac\source\repos\Calculadora2\Calculadora2\obj\Debug\Calculadora2.Form2.resources
+C:\Users\ignac\source\repos\Calculadora2\Calculadora2\obj\Debug\Calculadora2.Properties.Resources.resources
+C:\Users\ignac\source\repos\Calculadora2\Calculadora2\obj\Debug\Calculadora2.csproj.GenerateResource.cache
+C:\Users\ignac\source\repos\Calculadora2\Calculadora2\obj\Debug\Calculadora2.csproj.CoreCompileInputs.cache
+C:\Users\ignac\source\repos\Calculadora2\Calculadora2\obj\Debug\Calculadora2.exe
+C:\Users\ignac\source\repos\Calculadora2\Calculadora2\obj\Debug\Calculadora2.pdb
+C:\Users\ignac\source\repos\Calculadora2\Calculadora2\bin\Debug\MathNet.Numerics.dll
+C:\Users\ignac\source\repos\Calculadora2\Calculadora2\bin\Debug\MathNet.Numerics.xml
+C:\Users\ignac\source\repos\Calculadora2\Calculadora2\obj\Debug\Calculadora2.csproj.CopyComplete
