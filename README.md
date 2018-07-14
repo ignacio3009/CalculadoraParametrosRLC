@@ -4,4 +4,4 @@ Este sencillo programa sirve para obtener los parámetros básicos como son R', 
 
 El programa está en 
 
-CalculadoraParametrosRLC/Calculadora2/Calculadora2/bin/Debug/
+/Calculadora2/Calculadora2/bin/Debug/
