@@ -4,4 +4,4 @@ Este sencillo programa sirve para obtener los parámetros básicos como son R', 
 
 Pueden descargar el programa del siguiente enlace: 
 
-CalculadoraParametrosRLC/Calculadora2/Calculadora2/bin/Debug/Calculadora2.exe
+[CalculadoraRLC](CalculadoraParametrosRLC/Calculadora2/Calculadora2/bin/Debug/Calculadora2.exe)
